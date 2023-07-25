@@ -1,0 +1,8 @@
+caption
+chart
+image
+image_caption
+table
+table_caption
+text
+title
